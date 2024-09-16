@@ -1,0 +1,99 @@
+body{
+    background-color: #F4F5FB;
+}
+
+.part1{
+    width: Fixed (627px)px;
+    height: hug 44px;
+    margin-top: 30px;
+    margin-left: 369px;
+    gap: 16px;
+    opacity: 0px;
+    display: flex;
+}
+
+.input{
+    width: Fill (451px)px;
+    height: Fixed (44px)px;
+    padding: 0px 18px 0px 18px;
+    gap: 8px;
+    border-radius: 12px;
+    border: 2px solid;
+    opacity: 0px;  
+    border-color: #D1D5DB;  
+    width: 600px;
+}
+
+.butao{
+    width: Hug (160px)px;
+    height: Fixed (44px)px;
+    gap: 8px;
+    border-radius: 12px;
+    opacity: 0px;     
+    background-color: rgba(202, 56, 132, 1);
+    border-color: rgba(202, 56, 132, 1);
+    color: white;
+    width: 110px;
+}
+
+.intro{
+    width: Hug 155px;
+    height: Hug 40pxpx;
+    margin-top: 25px;
+    margin-left: 605px;
+    gap: 7px;
+    opacity: 0px;
+    display: flex;
+}
+
+img{
+    width: 30.51px;
+    height: 23.33px;
+    padding: 0px 0px 0.03px 0px;
+    gap: 0px;
+    opacity: 0px;    
+    margin-top: 8px;
+    border-radius: 50%;
+}
+
+h1{
+    width: 118px;
+    height: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 26.67px;
+    font-weight: 700;
+    line-height: 40px;
+    text-align: left -2%;   
+    color: #374151; 
+}
+
+h2{
+    width: 240px;
+    height: 32px;
+    margin-top: 50px;
+    margin-left: 365px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    text-align: center;
+}
+
+li{
+    width: Fixed (627px)px;
+    height: Hug (232px)px;
+    margin-top: 30px;
+    margin-left: 340px;
+    gap: 12px;
+    opacity: 0px;    
+    border: solid;
+    width: 722px;
+    border-radius: 12px;
+    border-color: #FFFFFF;
+    background-color: #FFFFFF;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
